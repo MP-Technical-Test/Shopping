@@ -1,0 +1,25 @@
+0 - Create table to see all items in data (file data.js)
+        Table has to be in Home component, div id ="homeList"
+
+1 - Create a button to add one item into the table with following parameters
+        name: Salad
+        category:Vegetables
+
+2 - Create button to delete item from table
+        background: red
+        text color: white
+        size: 60px
+
+3 - Design button to add
+        background: green
+        text color: white
+        size: 60px
+
+4 - Create a component button to replace Add and Delete buttons
+        properties to be sent to the component are:
+                background color
+                text color
+                size of button
+                function
+                
+
